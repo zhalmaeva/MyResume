@@ -1,4 +1,4 @@
-﻿body {
+body {
     margin: 0;
     font-family: 'Ubuntu Condensed', sans-serif;
 }
@@ -14,7 +14,7 @@ header {
 
     header span {
         position: absolute;
-        top: 40%;
+        top: 50%;
         left: 20%;
         margin-top: -4%;
         color: black;
@@ -105,7 +105,8 @@ ul.hard li {
     }
 
     ul.hard li.javascript {
-        width: 200px;
+        width: 
+           400px;
     }
 
     ul.hard li.python {
@@ -120,7 +121,7 @@ ul.soft li {
 }
 
     ul.soft li.communication {
-        width: 400px;
+        width: 350px;
     }
 
     ul.soft li.teamwork {
@@ -128,7 +129,7 @@ ul.soft li {
     }
 
     ul.soft li.leadership {
-        width: 400px;
+        width:290px;
     }
 
     ul.soft li.timemanag {
@@ -136,7 +137,7 @@ ul.soft li {
     }
 
     ul.soft li.criticalthinking {
-        width: 400px;
+        width: 350px;
     }
 
 pre {
